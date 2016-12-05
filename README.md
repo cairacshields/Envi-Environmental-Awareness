@@ -7,7 +7,7 @@ I have been busy working on new features as well as fixing former features.
 
 As of now, I have successfully integrated Spotify into my "Timed Shower" feature. Now as long as the user has a premium spotify account, they can sign in and listen to music while they take a timed shower. The shower lasts for 7 minutes in an effort to reduce the waste of water. Once the time is us up, the music will stop.
 
-I have also managed to create a slideshow of realtime data that is being pulled from National Geographics.
+I have also managed to create a slideshow of realtime data that is being pulled from National Geographics. It will disply up to date information on current environment issues and topics.
 
-The last feature that still needs some improvements is the step counter. Eerything has been implemented, but there are stil issues.
+The last feature that still needs some improvements is the step counter. Eerything has been implemented, but there are stil issues. The step counter is important to ensure the users are motivated to walk instead of drive, whenever possible.
 
